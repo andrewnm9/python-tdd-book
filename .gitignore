@@ -101,6 +101,7 @@ celerybeat-schedule
 env/
 venv/
 ENV/
+virtualenv/
 env.bak/
 venv.bak/
 
@@ -121,3 +122,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+geckodriver.exe
